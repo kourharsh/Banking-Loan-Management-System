@@ -1,0 +1,7 @@
+{jill,1121}.
+{joe,12}.
+{sue,34}.
+{hans,222}.
+{joes,2}.
+{sueer,14}.
+{hansws,122}.
