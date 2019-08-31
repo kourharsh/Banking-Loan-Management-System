@@ -2,7 +2,7 @@
 Banking loan management system designed to analyse and correlate message passing techniques (between different processes/threads) in Erlang and Java.
 
 ## Description 
-The application is created to demonstrate the bank's loan management environment in which banks and customers are distinct entities, such that each is modeled as separate task/process. All the customers concurrently try to take loans using message passing. Aim is to correlate the techniques used to pass messages among threads/processes in Erlang and Java.
+The application is created to demonstrate the bank's loan management environment in which banks and customers are distinct entities, such that each is modeled as separate task/process. All the customers concurrently and repeatedly try to take loan using message passing. Aim is to correlate the techniques used to pass messages among threads/processes in Erlang and Java.
 
 ## Input Files
    ### customers.txt ### 
